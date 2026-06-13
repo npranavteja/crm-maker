@@ -1,4 +1,4 @@
-# SponsorFlow CRM — API Reference
+# SponsorFlow CRM  API Reference
 
 ## Setup
 
